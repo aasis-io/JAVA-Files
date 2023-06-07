@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "JAVA Classroom_95576e6f"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "JAVA Classroom_95576e6f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "JAVA Classroom_95576e6f"
+        },
+        {
+            "type": "java",
+            "name": "FILE",
+            "request": "launch",
+            "mainClass": "FILE",
+            "projectName": "JAVA Classroom_95576e6f"
+        },
+        {
+            "type": "java",
+            "name": "MaxNumber",
+            "request": "launch",
+            "mainClass": "MaxNumber",
+            "projectName": "JAVA Classroom_95576e6f"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumbers",
+            "request": "launch",
+            "mainClass": "NaturalNumbers",
+            "projectName": "JAVA Classroom_95576e6f"
+        },
+        {
+            "type": "java",
+            "name": "OperatorExample",
+            "request": "launch",
+            "mainClass": "OperatorExample",
+            "projectName": "JAVA Classroom_95576e6f"
+        },
+        {
+            "type": "java",
+            "name": "givenNumber",
+            "request": "launch",
+            "mainClass": "givenNumber",
+            "projectName": "JAVA Classroom_95576e6f"
+        },
+        {
+            "type": "java",
+            "name": "mathOperation",
+            "request": "launch",
+            "mainClass": "mathOperation",
+            "projectName": "JAVA Classroom_95576e6f"
+        },
+        {
+            "type": "java",
+            "name": "stars",
+            "request": "launch",
+            "mainClass": "stars",
+            "projectName": "JAVA Classroom_95576e6f"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "JAVA Classroom_95576e6f"
+        }
+    ]
+}
